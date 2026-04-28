@@ -33,12 +33,12 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for sema
 
 ## 📌 Example
 
+
 **Query:**  
 What does Marcus Aurelius say about controlling the mind?
 
 **Output:**  
-He remembers besides that whatsoever partakes of reason, is akin unto him, and that to care for all men generally, is agreeing to the nature of a man: but as for honour and praise, that they ought not generally to be admitted and accepted of, from all, but from such only, who live according to nature.
----
+"He explains that one should live according to reason and not be influenced by external praise or opinions. True control lies in understanding one's inner nature and acting rationally rather than reacting to external circumstances."
 
 ## 🚀 Key Concepts
 - Retrieval-Augmented Generation (RAG)  
