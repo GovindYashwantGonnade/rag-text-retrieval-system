@@ -37,8 +37,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for sema
 What does Marcus Aurelius say about controlling the mind?
 
 **Output:**  
-Relevant philosophical passages retrieved based on semantic similarity.
-
+He remembers besides that whatsoever partakes of reason, is akin unto him, and that to care for all men generally, is agreeing to the nature of a man: but as for honour and praise, that they ought not generally to be admitted and accepted of, from all, but from such only, who live according to nature.
 ---
 
 ## 🚀 Key Concepts
